@@ -1,0 +1,18 @@
+{
+  "name": "chagrade",
+  "description": "App JSON for Chagrade",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
